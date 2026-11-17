@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Escalas II: escalas menores | Lynx Pardelle",
-    "description": "Compara las escalas menor natural, armónica y melódica. Observa qué notas cambian entre cada una y cómo esas diferencias abren otras posibilidades para la melodía y los acordes.",
+    "title": "Masterclass de escalas menores y armonía | Lynx Pardelle",
+    "description": "Compara las escalas menor natural, armónica y melódica. Identifica qué notas cambian y qué acordes alternativos aparecen en cada una.",
     "canonical": "https://masterclass-escalas-menores.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-menores-r2-73ca3aa7cee069d1.webp",
+      "title": "Masterclass de escalas menores y armonía | Lynx Pardelle",
+      "description": "Compara las escalas menor natural, armónica y melódica. Identifica qué notas cambian y qué acordes alternativos aparecen en cada una.",
+      "url": "https://masterclass-escalas-menores.music.lynxpardelle.com/",
+      "imageAlt": "Piano de estudio con luz azul y cuaderno abierto."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de escalas menores y armonía | Lynx Pardelle",
+      "description": "Compara las escalas menor natural, armónica y melódica. Identifica qué notas cambian y qué acordes alternativos aparecen en cada una.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-menores-r2-73ca3aa7cee069d1.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-escalas-menores.music.lynxpardelle.com/#webpage",
+        "name": "Escalas II: escalas menores",
+        "description": "Compara las escalas menor natural, armónica y melódica. Identifica qué notas cambian y qué acordes alternativos aparecen en cada una.",
+        "url": "https://masterclass-escalas-menores.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-escalas-menores.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-escalas-menores.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Escalas II: escalas menores",
+        "description": "Compara las escalas menor natural, armónica y melódica. Identifica qué notas cambian y qué acordes alternativos aparecen en cada una.",
+        "url": "https://masterclass-escalas-menores.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-escalas-menores-r2-73ca3aa7cee069d1.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-escalas-menores.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
